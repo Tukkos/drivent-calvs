@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "91aee64f-6c27-4124-890c-7d8cd5b532f0",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:4000/enrollments/cep?cep=35162416",
+    "url": "localhost:4000/enrollments/cep?cep=35162416",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-11-13T13:37:06.318Z",
+    "modified": "2022-11-13T14:23:58.165Z",
+    "headers": [],
+    "params": [
+      {
+        "name": "cep",
+        "value": "35162416",
+        "isPath": false
+      }
+    ],
+    "tests": []
+  }
+]
